@@ -140,7 +140,7 @@ body {
 
 /* The .button class is appled to the #install, #gamePlay, and #gameAgain buttons */
 .button {
-  background: maroon;
+  background: #330000;
   border-radius: 5px;
   font-size: 3em;
   padding: 10px;
