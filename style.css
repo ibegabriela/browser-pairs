@@ -246,7 +246,7 @@ body {
   border-radius: 4px;
 }
 .card:hover .face, .card-flipped .face {
-  box-shadow: 0 0 10px #ccc;
+  box-shadow: 0 0 10px #eee;
 }
 .card-flipped .front {
   -webkit-transform: rotate3d(0,1,0,180deg) scale(1.1);
